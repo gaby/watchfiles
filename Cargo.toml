@@ -23,7 +23,7 @@ include = [
 ]
 
 [dependencies]
-crossbeam-channel = "0.5.4"
+crossbeam-channel = "0.5.12"
 notify = "5.0.0"
 pyo3 = {version = "=0.20", features = ["extension-module", "generate-import-lib"]}
 
